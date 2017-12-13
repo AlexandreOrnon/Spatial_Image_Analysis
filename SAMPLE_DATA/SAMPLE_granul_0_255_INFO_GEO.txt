@@ -1,0 +1,6 @@
+ncols         1167
+nrows         861
+xllcorner     903764.5
+yllcorner     6214637.0005225
+cellsize      100.00149931457
+NODATA_value  -9999
